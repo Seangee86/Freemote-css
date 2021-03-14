@@ -13,3 +13,25 @@
     > finally, create some margin on the "container" class
         ☑️ Try 10vw!
 */
+
+.box {
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px 10px;
+    margin: 20px;
+}
+
+.box-1 {
+    background-color: blue;
+}
+
+.box-2 {
+    background-color: red;
+}
+
+.box-3 {
+    background-color: green;
+}
+.container {
+    margin:10vw;
+}
