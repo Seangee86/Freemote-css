@@ -1,0 +1,22 @@
+/* 
+    > Ready for quiz 3? just follow these specs:
+
+    > Create a *single* selector for *both* the index and footer ids
+        ☑️ give them a background color of #f1f1f1
+        ☑️ and a 1px solid grey border
+
+    > Create a selector for the <p> *one level deep* inside the "index" id
+        ☑️ Make this text bold, italicized, 2rem
+
+    > Create a selector for the ul and remove the bullet points
+
+    > Create a :hover pseudo class selector for the *li's inside a ul*
+        ☑️ Make the cursor into a pointer on hover
+        ☑️ Change the text opacity on hover to .8
+        ☑️ Set the transition to .2s ease all BOTH DIRECTIONS (hint, also on non-pseudo selector)
+
+    > Finally, replace the ul bullet points with check emojis 
+        ☑️ use a ::before pseudo element
+        ☑️ then, replace the bullet points with a check mark emoji
+        (you can copy and paste one from this file)
+*/

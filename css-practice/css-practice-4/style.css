@@ -1,0 +1,42 @@
+/* 
+    > Quiz 4! In this one we already have a lot of HTML, so let's style it
+    > Do not change the HTML for this one, do everything in CSS
+
+    > First, let's style the "hero" class with the following properties
+        ☑️ set a height of 30vh, width of 100%
+        ☑️ download a background image from https://unsplash.com & add it to this directory
+        ☑️ set the background-image property
+        ☑️ use the POSITION property to center the text inside horizontally and vertically
+        ☑️ HINT: you will need a second selector for H1... 
+        ☑️ HINT 2: then use -> relative, absolute, top, left, and transform: translate
+    .*/
+    
+    /*
+    > Second let's...
+        ☑️ style ALL "section"s with text aligned to center, 50px margin
+        ☑️ style ALL "box-ctr"s with display flex, height 20vh, width 100%, background color lightgrey
+    */
+
+    /*
+    > Third, let's style the "box" class
+        ☑️ set a width of 5%, a height of 30%, 1px solid black border on ALL boxes
+        ☑️ write 3 advanced selectors, the 1st should select the 1st box inside each box-ctr, the 2nd selects the 2nd... etc
+        ☑️ using these, make first box in every container red, second green, third blue
+    */
+
+    /*
+    > Last, let's style each of the box containers INDIVIDUALLY
+        ☑️ We have made it easier for you with "box-ctr-n" classes
+        ☑️ box-ctr-1 should look like this
+            |                |
+            |     [][][]     |
+            |                |
+        ☑️ box-ctr-2 should look like this
+            |                |
+            |                |
+            |  []   []   []  |
+        ☑️ box-ctr-3 should look like this
+            |              []|
+            |              []|
+            |              []|
+*/
